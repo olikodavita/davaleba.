@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Inter;
+    src: url(Inter-VariableFont_slnt\,wght.ttf);
+}
+
+.class1,
+.class2,
+.class3 {
+    background-color: #209F62;
+    width: 100%;
+    height: 319px;
+    
+}
+
